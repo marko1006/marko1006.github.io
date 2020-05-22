@@ -1,0 +1,124 @@
+*{
+	padding: 0px;
+	margin: 10px;
+	font-family: verdana;
+	font-size: 15px;
+	color: black;
+	text-decoration: none;
+	
+}
+body{
+	background: #e9f1f4;
+	
+	color: black;
+}
+
+div#container{
+	width: 700px;
+	margin: 100px auto;
+	text-align: center;
+	
+	
+}
+ul#menu{
+	list-style: none;
+	
+	
+}
+ul#menu li{
+	float: left;
+	background: #0a8ea8;
+	width: 150px;
+	margin: 0 5px 20px 0;
+	
+	
+}
+ul#menu li a{
+		color: #8a1542;
+		padding: 10px;
+		display: block;
+}
+ul#menu li a:hover{
+	background: #2a9c65;
+	color: white;
+}
+h1{
+	text-align: center;
+	font-size: 35px;
+}
+h2{
+	text-align: center;
+	font-size: 20px;
+}
+h3{
+	text-decoration:underline;
+	
+}
+h4{
+	text-align: center;
+	font-size: 20px;
+	text-decoration: underline;
+	margin:20px;
+}
+h5{
+	
+	font-size: 25px;
+}
+
+p{
+	text-align: justify;
+	
+	
+}
+
+p10{
+	color:blue;
+	font-size: 15px;
+	background-color: #2f7a0a;
+	
+	
+	
+	
+	
+}
+.talal{
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	
+}
+
+.tablokep{
+	float: right;
+	padding-right:100px;
+	
+	
+	
+}
+.logo{
+	float: left;
+	
+}
+.erdek{
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	background-color: brown;
+	padding: 10px;
+	border-color:black;
+	border-width:4px;
+	border-style: dashed; 
+	border-radius: 10px;
+	
+	
+}
+.fooldal
+{
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top:350px;
+	
+	
+	
+}
